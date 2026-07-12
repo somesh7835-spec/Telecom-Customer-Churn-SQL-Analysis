@@ -1,4 +1,3 @@
-# Telecom-Customer-Churn-SQL-Analysis
 <h1 align="center">📊 Telecom Customer Churn SQL Analysis</h1>
 
 <p align="center">
